@@ -1,4 +1,4 @@
-package goInfo
+package osinfo
 
 import (
 	"fmt"
